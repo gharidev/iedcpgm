@@ -1,3 +1,3 @@
-import substract
-x=substract.Sub(54,45)
-print (x)
+def Sub(a,b):
+    c=a-b
+    return c

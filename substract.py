@@ -1,3 +1,3 @@
-def Sub(a,b):
-    c=a-b
-    return c
+import Subtractionfun
+x=Subtractionfun.Sub(54,45)
+print (x)
