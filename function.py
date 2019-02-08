@@ -1,4 +1,4 @@
-import add
-x=add.Add(15,34)
-y=add.Add(22,90)
+import module
+x=module.Add(15,34)
+y=module.Add(22,90)
 print(x,y)

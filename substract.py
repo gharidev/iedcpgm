@@ -1,3 +1,3 @@
-import Subtractionfun
-x=Subtractionfun.Sub(54,45)
+import module
+x=module.Sub(54,45)
 print (x)
