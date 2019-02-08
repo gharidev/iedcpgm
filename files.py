@@ -1,0 +1,5 @@
+myfile=open("C:/Users/Administrator/File/myfile.txt","w")
+myfile.write("India is my Country")
+x=input("Enter your name")
+myfile.write(x)
+myfile.close()
